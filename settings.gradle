@@ -1,0 +1,2 @@
+rootProject.name='GNL'
+include ':app'
